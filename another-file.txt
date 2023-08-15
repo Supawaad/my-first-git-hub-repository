@@ -1,1 +1,2 @@
 this file located in feature 1
+this is modified for test different 3 way mereged
